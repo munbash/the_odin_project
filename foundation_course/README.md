@@ -1,5 +1,4 @@
->### What does this folder entails?
->
->> It contains resources and projects related to foundational courses in web development
-> It focuses on on core concept such as HTML< CSS and JavaScript 
-> It serves as a base for building essentisl skills in modern web design and programming
+>### The Odin Project
+
+>> This project includes the development of my portfolio on the Odin project website.
+> The repository is set up to highlight my progress through the basic and advanced web development courses. >> The repository serves as a portfolio of my work and serves to illustrate the abilities I develop by recording my learning, assignments, and projects as I move through the program.
