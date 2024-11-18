@@ -7,7 +7,9 @@ Allah be pleased with him said: </p>
     reading from the <strong> mashaf</strong></p>
 <em> Imam Ahmad, Al-Zuhd </em> </header>
 
-<main><p> It is narrated on the authority of <em> Amir al-Mu'minin (Leader of the Believers)</em>, 
+<main>
+
+<p> It is narrated on the authority of <em> Amir al-Mu'minin (Leader of the Believers)</em>, 
     <strong> Abu Hafs 'Umar bin al-Khattab</strong> (may Allah be pleased with him), who said: 
     <p> I heard the Messenger of Allah (peace be upon him), say
      <em> Actions are according to intentions, and everyone will get what was intended.
