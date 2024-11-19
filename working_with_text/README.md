@@ -1,6 +1,6 @@
-## Remembering Your Sins
-> It is reported that Masruq **Allah have mercy on him** said:
+## Working with text
+This repository contains materials from **The Odin Project's Working with Text** course, _focusing on text manipulation_, _file handling_, and _regular expressions_. 
 
->> Everyone should have times when they sit alone,
-> remember their sins, and thus seek Allah's forgiveness for them.
->>- Ahmad b. Hanbal, Al-Zuhd article 2038.
+>> It includes exercises and projects.
+> To get started, the repository will be clone and the folder will be created. 
+>This course equips learners with essential skills.
